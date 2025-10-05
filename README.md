@@ -28,7 +28,7 @@ I’m Uzi, a driven junior cybersecurity major with a computer science minor. Ce
 
 ## Currently
 
-Studying, CTFs, HackTheBox, cert studies, reading, and Chess.
+Studying, CTFs, HackTheBox, cert studies, reading, chess, running, and martial arts.
 
 ---------------------
 

@@ -5,6 +5,11 @@ I’m Uzi, a driven junior cybersecurity major with a computer science minor. Ce
 
 ---------------------
 
+# Brief
+Cybersecurity & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist | Lifelong Learner
+
+---------------------
+
 ## Projects
 
 - **Cisco Networking Lab** — [Networking-Configs](https://github.com/CypherKTS/Networking-Configs)  

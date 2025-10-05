@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello World! 👋
 
-<!--
-**CypherKTS/CypherKTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Whoami
+I’m Uzi, a driven junior cybersecurity major with a computer science minor. Certified by Google, Cisco, Red Hat, Mastercard, and more, I’m passionate about solving complex challenges and improving security. A lifelong learner focused on protecting information and adapting to ever-evolving threats.
 
-Here are some ideas to get you started:
+---------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **Cisco Networking Lab** — [Networking-Configs](https://github.com/CypherKTS/Networking-Configs)  
+- **Python Code Lab** — [Python-Projects](https://github.com/CypherKTS/Python-Projects)
+- **Virtual Machines** - Kali, Ubuntu, Mint, and a Win11 Pro/Fedora Dual-Boot on my custom PC.
+- **AWS AI Hackathon** - Worked with San Francisco based startup. Link:
+- **AI Ethics Overview** - https://sites.google.com/view/artificial-intelligence-khan/home
+- **Video Blog** - https://www.youtube.com/@KTechSavvy
+
+---------------------
+
+## Skills
+
+- Technical Support  
+- Problem Solving  
+- Cybersecurity  
+- Cisco Networking  
+- Troubleshooting  
+
+---------------------
+
+## Currently
+
+Studying, CTFs, HackTheBox, cert studies, reading, and Chess.
+
+---------------------
+
+## Contact
+
+https://www.linkedin.com/in/uzair-k-471b5b359/
+🌍 Based in MidWest, USA

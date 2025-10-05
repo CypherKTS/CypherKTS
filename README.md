@@ -18,6 +18,7 @@ Cybersecurity & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist |
 - **AWS AI Hackathon** - Worked with San Francisco based startup. Link:
 - **AI Ethics Overview** - https://sites.google.com/view/artificial-intelligence-khan/home
 - **Video Blog** - https://www.youtube.com/@KTechSavvy
+- **Book** - https://www.amazon.com/Ayla-Alluring-Mirror-World-Allegorical/dp/B0FF4XC43H
 
 ---------------------
 

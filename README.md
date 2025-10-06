@@ -41,4 +41,4 @@ Studying, CTFs, HackTheBox, cert studies, reading, chess, running, and martial a
 ## Contact
 
 https://www.linkedin.com/in/uzair-k-471b5b359/
-🌍 Based in MidWest, USA
+🌍 Based in Midwest, USA

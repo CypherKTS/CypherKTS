@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-# Whoami
+# whoami
 I’m Uzi, a driven junior cybersecurity major with a computer science minor. Certified by Google, Cisco, Red Hat, Mastercard, and more, I’m passionate about solving complex challenges and improving security. A lifelong learner focused on protecting information and adapting to ever-evolving threats.
 
 ---------------------

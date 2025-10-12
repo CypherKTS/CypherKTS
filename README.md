@@ -14,7 +14,7 @@ Cybersecurity & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist |
 
 - **Cisco Networking Lab** — [Networking-Configs](https://github.com/CypherKTS/Networking-Configs)  
 - **Python Code Lab** — [Python-Projects](https://github.com/CypherKTS/Python-Projects)
-- **Cyber Law Portfolio** — [cyberlaw-portfolio](https://github.com/CypherKTS/cyberlaw-portfolio)
+- **Cyberlaw Portfolio** — [cyberlaw-portfolio](https://github.com/CypherKTS/cyberlaw-portfolio)
 - **AWS AI Hackathon** — Worked with San Francisco based startup. Link:
 - **AI Ethics Overview** — https://sites.google.com/view/artificial-intelligence-khan/home
 - **Virtual Machines** — Kali, Ubuntu, Mint, and a Win11 Pro/Fedora Dual-Boot on my custom PC.

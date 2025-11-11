@@ -20,7 +20,7 @@ Cybersecurity & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist |
 - **VM Homelab** — Kali, Ubuntu, Mint on a laptop, and a Win11 Pro/Fedora Dual-Boot on a custom PC.
 - **Project Writeups** — Briefs on projects using HackTheBox, TryHackMe, Schoolwork, and Homelabs.
 - **Video Blog** — https://www.youtube.com/@KTechSavvy Educational content on technology, cybersecurity, and creative interests.
-- **Book** — https://www.amazon.com/Ayla-Alluring-Mirror-World-Allegorical/dp/B0FF4XC43H Allegorical fiction exploring technology, identity, and human-machine reflection.
+- **Publications** — https://www.amazon.com/Ayla-Alluring-Mirror-World-Allegorical/dp/B0FF4XC43H Allegorical fiction exploring technology, identity, and human-machine reflection.
 
 ---------------------
 

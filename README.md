@@ -19,7 +19,7 @@ Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Mar
 - **AI Ethics Overview** — https://sites.google.com/view/artificial-intelligence-khan/home
 - **VM Homelab** — Kali, Ubuntu, Mint on a laptop, and a Win11 Pro/Fedora Dual-Boot on a custom PC.
 - **Project Writeups** — [Writeups](https://github.com/CypherKTS/writeups) Briefs on competitions, CTFs, and projects using HackTheBox, TryHackMe, Schoolwork, and Homelabs.
-- **NASA & Adler Planetarium Exoplanet Research** — [NASA-&-Adler](https://github.com/CypherKTS/writeups) Collaboration project using data from Chicago **Adler Planetarium's** Doane Observatory remote [] telescope and **NASA's Google Colab** data analysis environment to analyze real light transit data to detect, chart, graph, and present WTS-2b exoplanet data and lightcurves.
+- **NASA & Adler Planetarium Exoplanet Research** — [NASA-&-Adler](https://github.com/CypherKTS/writeups) Collaboration project using data from Chicago **Adler Planetarium's** Doane Observatory [___] telescope and **NASA's Google Colab** data analysis environment to analyze real light transit data to detect, chart, graph, and present WTS-2b exoplanet data and lightcurves.
 - **AWS AI Hackathon** — Worked with San Francisco based startup, SparkMySport. Link: (UPCOMING) IT Project Manager for multiple Chicagoland events, configuring RTMP stream keys, and ensuring AWS and AI tool functionality.
 - **Video Blog** — https://www.youtube.com/@KTechSavvy Educational content on technology, cybersecurity, and creative interests.
 - **Publications** — https://www.amazon.com/Ayla-Alluring-Mirror-World-Allegorical/dp/B0FF4XC43H Allegorical fiction exploring technology, identity, and human-machine reflection.

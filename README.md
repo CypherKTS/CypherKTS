@@ -13,7 +13,7 @@ Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Mar
 ## Projects
 
 - **Cyberlaw Portfolio** — [Cyberlaw-Portfolio](https://github.com/CypherKTS/cyberlaw-portfolio) Research reports on cybersecurity law, governance, risk, and compliance (GRC).
--  **Cybersecurity/IT Projects** — [Cyber/IT Projects](https://github.com/CypherKTS/cyberlaw-portfolio) Collection of security/IT projects, including a port scanner, security tools and pentesting.
+-  **Cybersecurity/IT Projects** — [Security-IT-Projects](https://github.com/CypherKTS/Security-IT-Projects) Collection of security/IT projects, including a port scanner, security tools and pentesting.
 - **Cisco Networking Lab** — [Networking-Configs](https://github.com/CypherKTS/Networking-Configs) Configs from CCNA and CCNP level networking configurations on real Cisco hardware.
 - **Python Code Lab** — [Python-Projects](https://github.com/CypherKTS/Python-Projects) Explorations on Python fundamentals, automation, and libraries built in VS Code, IDLE, and Jupyter.
 - **AI Ethics Overview** — https://sites.google.com/view/artificial-intelligence-khan/home

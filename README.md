@@ -6,7 +6,7 @@ I’m Uzi, a cybersecurity major with a computer science minor. Certified in cyb
 ---------------------
 
 # Brief
-Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist | Lifelong Learner
+Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Martial Artist | Boxing | Lifelong Learner
 
 ---------------------
 

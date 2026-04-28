@@ -16,7 +16,7 @@ Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Mar
 -  **Cybersecurity/IT Projects** — [Security-IT-Projects](https://github.com/CypherKTS/Security-IT-Projects) Collection of security/IT projects, including a port scanner, security tools and pentesting.
 - **Cisco Networking Lab** — [Networking-Configs](https://github.com/CypherKTS/Networking-Configs) Configs from CCNA and CCNP level networking configurations on real Cisco hardware.
 - **Python Code Lab** — [Python-Projects](https://github.com/CypherKTS/Python-Projects) Explorations on Python fundamentals, automation, and libraries built in VS Code, IDLE, and Jupyter.
-- **AI Ethics Overview** — https://sites.google.com/view/artificial-intelligence-khan/home
+- **AI Ethics Overview** — https://sites.google.com/view/artificial-intelligence-khan/home My website on what AI is, how it works, and the ethics of AI in the modern world.
 - **VM Homelab** — Kali, Ubuntu, Mint on a laptop, and a Win11 Pro/Fedora Dual-Boot on a custom PC.
 - **Project Writeups** — [Writeups](https://github.com/CypherKTS/writeups) Briefs on competitions, CTFs, and projects using HackTheBox, TryHackMe, Schoolwork, and Homelabs.
 - **NASA & Adler Planetarium Exoplanet Research** — [NASA-Adler](https://github.com/CypherKTS/NASA-Adler-Project) Collaboration project using data from Chicago **Adler Planetarium's** Doane Observatory [___] telescope and **NASA's Google Colab** Python data analysis environment to analyze real light transit data to detect, chart, graph, and present WTS-2b exoplanet data and lightcurves.

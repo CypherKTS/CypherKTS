@@ -46,5 +46,5 @@ Studying, reading, cert studies, CTFs, HackTheBox, chess, boxing, martial arts, 
 
 ## Contact
 
-https://www.linkedin.com/in/uzair-k-471b5b359/
+[LinkedIn](https://www.linkedin.com/in/uzair-k-471b5b359/)
 🌍 Based in the USA

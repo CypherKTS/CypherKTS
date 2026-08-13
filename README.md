@@ -13,7 +13,7 @@ Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Mar
 ## Projects
 
 - **Cyberlaw Portfolio** — [Cyberlaw-Portfolio](https://github.com/CypherKTS/cyberlaw-portfolio) Research reports on cybersecurity law, governance, risk, and compliance (GRC).
-- **Google AI Professional Project Portfolio** — Deployed Google's advanced AI suite (Gemini Apps, Workspace, AI Studio, and Deep Research) to build 20+ automated workflows, functional web apps via vibe coding, and data-driven analysis solutions.
+- **Google AI Professional Project Portfolio** — [Google-AI Labs](https://github.com/CypherKTS/GoogleAI) Deployed Google's advanced AI suite (Gemini Apps, Workspace, AI Studio, and Deep Research) to build 20+ automated workflows, functional web apps via vibe coding, and data-driven analysis solutions.
 -  **Cybersecurity/IT Projects** — [Security-IT-Projects](https://github.com/CypherKTS/Security-IT-Projects) Collection of security/IT projects, including a port scanner, security tools and pentesting.
 - **Project Writeups** — [Writeups](https://github.com/CypherKTS/writeups) Briefs on competitions, CTFs, and projects using HackTheBox, TryHackMe, Schoolwork, and Homelabs. Includes experience with U.S. Department of Energy's CyberForce Competition and Atlantic Councils Cyber 9/12 Strategy Challenge, competing globally and placing in the **top 15** in both.
   -  **Atlantic Council Cyber 9/12 Strategy Challenge** — [Cyber9/12](https://github.com/CypherKTS/writeups/tree/main/Cyber9-12) Analyzed intelligence reports under a 16-hour turnaround to formulate national-level cyber policy recommendations to government officials and CIO/CISOs, placing 13th overall and winning 1st place in "Presentation Skills & Policy Proposals."

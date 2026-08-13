@@ -47,5 +47,4 @@ Studying, reading, cert studies, CTFs, HackTheBox, chess, boxing, martial arts, 
 
 ## Contact
 
-[LinkedIn]
 🌍 Based in the USA

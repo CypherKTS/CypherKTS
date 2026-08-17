@@ -23,7 +23,7 @@ Cybersecurity, Policy, GRC & AI | Author | Speaker | Poet | INTJ-Architect | Mar
 - **[Cisco Networking Lab](https://github.com/CypherKTS/Networking-Configs)** — Configs from CCNA and CCNP level networking configurations on real Cisco hardware.
 - **[Python Code Projects](https://github.com/CypherKTS/Python-Projects)** — Explorations on Python fundamentals, automation, and libraries built in VS Code, IDLE, and Jupyter.
 - **[AI Ethics Website](https://sites.google.com/view/artificial-intelligence-khan/home)** — My website on what AI is, how it works, and the ethics of AI in the modern world.
-- **VM Homelab** — Kali, Ubuntu, Mint on a laptop, and a Win11 Pro/Fedora Dual-Boot on a custom PC.
+- **[VM Homelab](https://github.com/CypherKTS/Homelab/blob/main/Homelab-Network-Diagram.png)** — Kali, Ubuntu, Mint on a laptop, and a Win11 Pro/Fedora Dual-Boot on a custom PC.
 - **[Video Blog](https://www.youtube.com/@KTechSavvy)** — Educational content on technology, cybersecurity, and creative interests.
 - **[Publications](https://www.amazon.com/Ayla-Alluring-Mirror-World-Allegorical/dp/B0FF4XC43H)** — Allegorical fiction exploring technology, identity, and human-machine reflection.
 
